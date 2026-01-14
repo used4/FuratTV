@@ -1,0 +1,37 @@
+{
+  "show": true,
+  "title": "● IRAQI PLAYER Xtream ●",
+  "version": "4",
+  "headline": "•تطبيق يجمع لك كل القنوات الرياضية، مجانا، بدون إعلانات وبدون اشتراك",
+  "description": "",
+  "force": false,
+  "minVersion": "",
+  "credit": "hiqq3",
+  "features": [
+    
+    "• 🟢 تابعنا لاتنسئ⚠️",
+    
+  ],
+  "trial": {
+    "enabled": true,
+    "text": "إلغاء",
+    "minutes": 200
+  },
+  "update": {
+    "text": "قناة التلجرام",
+    "url": "https://t.me/viewxtv"
+  },
+  "colors": {
+    "bgStart": "#000000",
+    "bgEnd": "#000000",
+    "border": "#CC0605",
+    "accent": "#03C03C",
+    "highlight": "#CC0605",
+    "muted": "#CC0605",
+    "divider": "#CC0605",
+    "textPrimary": "#F2F3F4",
+    "textSecondary": "#93C5FD",
+    "buttonTrial": "#CC0605",
+    "buttonUpdate": "#CC0605"
+  }
+}
