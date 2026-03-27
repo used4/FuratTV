@@ -1,0 +1,35 @@
+{
+  "show": true,
+  "title": "واحد بغداد",
+  "version": "4",
+  "headline": "",
+  "description": "اكواد التفعيل تجدها في التلجرام",
+  "force": false,
+  "minVersion": "",
+  "credit": "hiqq3",
+  "features": [
+    
+    "●انتقل الى قناة التلجرام الآن 👇‼️",
+    
+  ],
+  "trial": {
+    "enabled": true,
+    "text": "إلغاء",
+    "minutes": 60
+  },
+  "update": {
+    "text": "قناة التلجرام",
+    "url": "https://t.me/stlaet1
+  },
+"colors": {
+"bgStart": "#1F2937",
+"bgEnd": "#374151",
+"border": "#4B5563",
+"accent": "#60A5FA",
+"muted": "#9CA3AF",
+"divider": "#4B5563",
+"textPrimary": "#F9FAFB",
+"textSecondary": "#D1D5DB",
+"buttonTrial": "#6B7280"
+}
+}
